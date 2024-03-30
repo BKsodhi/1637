@@ -1,6 +1,12 @@
 Hello
 2310991637
+<<<<<<< HEAD
 Bhavnoor Kaur Sodhi
 
 
 
+=======
+bye
+Bhavnoor Kaur Sodhi
+
+>>>>>>> 334b36979748a05248d498e0766abe3e4b53d326
